@@ -2,7 +2,7 @@
 
 BUGS:
 ------
--State management
--Database etc.
+    -State management
+    -Database etc.
 
 Working on it. Open for contributions.
